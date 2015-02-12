@@ -36,3 +36,7 @@ $(document).ready(function(){
     //------------------------------------------------------------------------//
 
 });//document ready
+
+email = function() {
+    window.location = 'mailto:contactparkchop@gmail.com?subject=Contact';
+}

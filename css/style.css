@@ -532,7 +532,6 @@ footer {
 .newsletter-form {
     position: relative;
     display: inline-block;
-    padding-right: 169px;
     max-width: 556px;
     min-width: 556px;
     height: 58px;
@@ -540,15 +539,6 @@ footer {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-}
-
-.newsletter-form .button {
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding-left: 0;
-    padding-right: 0;
-    width: 149px;
 }
 
 .promo {
