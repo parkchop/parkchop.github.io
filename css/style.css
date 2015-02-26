@@ -486,6 +486,16 @@ header .buttons-wrapper .button-stripe {
     max-width: 655px;
 }
 
+/* fixed-header --------------------------  */
+.fixed-header {
+    display: block;
+    margin: 0 auto;
+    text-align:center;
+    border-radius:0;
+    position:fixed;
+    width:100%;
+    z-index:9000;
+}
 /* footer --------------------------  */
 
 footer {
